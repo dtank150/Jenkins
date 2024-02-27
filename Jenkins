@@ -1,0 +1,41 @@
+What is Jenkins? 
+Jenkins is an open-source automation tool
+One of the most popular DevOps tools
+Key DevOps CI/CD tool
+Automate builds and deployments
+Open source with 1400 plugins
+
+What is CI/CD:-
+CI=>(Continuous Integration)
+its build server is a tool that provides this functionality.
+Code -> Build -> Test
+
+CD=>(Continuous Delivery)
+The system offers many different tools, languages, and automation tasks to aid in pipeline creation when developing and deploying programs.
+Build Docker Image -> push -> kubernets -> deploy
+
+CI/CD:-
+Bulid -> Test -> Bulid docker image -> push -> kubernets -> deploy
+
+
+localhost:8080
+When jenkins run we create a job:-
+Step 1:- give job name
+Step 2:- Add new build with execute shell in Bulid 
+Step 3:- After save 
+Step 4:- Bulid now click
+Setp 5:- click on job 
+Step 6:- click on colsole output
+
+Section 5:- Challenge 1:-
+1.1):- Breakdown 
+1) Setup Jenkins
+2) Create Job called: Challenge 1
+3) Display "Hello from Challenge 1" 
+
+1):- Create job Challenge 1
+2):- Bulid Steps to Add Execute shell and enter echo "Hello from Challenge1!"
+3):- Save and Bulid now
+4):- Console output
+
+
